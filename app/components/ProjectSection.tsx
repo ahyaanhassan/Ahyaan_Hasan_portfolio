@@ -27,10 +27,10 @@ const projectsData = [
       "id": 3,
       "title": "Breast Cancer Detection Using Logistic Regression",
       "description": "A machine learning project that predicts breast cancer using the sklearn dataset and Logistic Regression.",
-      "image": "/images/projects/breast-cancer-detection.png",
+      "image": "public/images/projects/breast-cancer-detection.png",
       "tag": ["Python", "Scikit-learn", "Logistic Regression", "Machine Learning", "Pandas", "Streamlit", "Data Science"],
-      "gitUrl": "https://github.com/your-username/breast-cancer-detection-app",
-      "previewUrl": "https://your-app.streamlit.app/"
+      "gitUrl": "https://github.com/ahyaanhassan/cancer-detection-model",
+      "previewUrl": "https://cancer-detection-model-cgukcujlg2hgxrn4vkay3i.streamlit.app/"
     }
 
     // {
