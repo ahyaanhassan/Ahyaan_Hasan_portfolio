@@ -15,23 +15,24 @@ const projectsData = [
     },
     {
       "id": 2,
-  "title": "Customer Segmentation Using KMeans",
-  "description": "A machine learning project that segments customers based on their purchasing behavior using KMeans clustering algorithm.",
-  "image": "/images/projects/customer-segmentation.png",
-  "tag": ["Python", "Scikit-learn", "KMeans", "Machine Learning", "Pandas", "Matplotlib", "Data Science"],
-  "gitUrl": "https://github.com/ahyaanhassan/customer-segmentation-app",
-  "previewUrl": "https://mainpy-hdak5lwwzwz4aaxq7nf4my.streamlit.app/",
+      "title": "Customer Segmentation Using KMeans",
+      "description": "A machine learning project that segments customers based on their purchasing behavior using KMeans clustering algorithm.",
+      "image": "/images/projects/customer-segmentation.png",
+      "tag": ["Python", "Scikit-learn", "KMeans", "Machine Learning", "Pandas", "Matplotlib", "Data Science"],
+      "gitUrl": "https://github.com/ahyaanhassan/customer-segmentation-app",
+      "previewUrl": "https://mainpy-hdak5lwwzwz4aaxq7nf4my.streamlit.app/",
     },
     
-    // {
-    //   id: 5,
-    //   title: "React Firebase Template",
-    //   description: "Authentication and CRUD operations",
-    //   image: "/images/projects/5.png",
-    //   tag: ["All", "Web"],
-    //   gitUrl: "/",
-    //   previewUrl: "/",
-    // },
+    {
+      "id": 3,
+      "title": "Breast Cancer Detection Using Logistic Regression",
+      "description": "A machine learning project that predicts breast cancer using the sklearn dataset and Logistic Regression.",
+      "image": "/images/projects/breast-cancer-detection.png",
+      "tag": ["Python", "Scikit-learn", "Logistic Regression", "Machine Learning", "Pandas", "Streamlit", "Data Science"],
+      "gitUrl": "https://github.com/your-username/breast-cancer-detection-app",
+      "previewUrl": "https://your-app.streamlit.app/"
+    }
+
     // {
     //   id: 6,
     //   title: "Full-stack Roadmap",
